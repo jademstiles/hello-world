@@ -1,2 +1,3 @@
 # hello-world
-this is a description :-)
+
+some facts about myself are i share a birthday with amy winehouse and my favorite food is pierogies.
